@@ -1,0 +1,6 @@
+plsql_staging:
+  host: db
+  user: username
+  password: secret
+  dbname: database
+  port: 5432
